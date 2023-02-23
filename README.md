@@ -1,2 +1,1 @@
-# databricks_terraform_hub_spoke
-Hub and Spoke Template for Databricks Terraform Deployment
+# Hub and Spoke Template for Databricks Terraform Azure Deployment
